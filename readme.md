@@ -1,11 +1,9 @@
-
-
 ---
 # Some Assembly Required 2
 
 View Source Code carefully we get this [JS file](http://mercury.picoctf.net:7319/Y8splx37qY.js)
 
-from there we get this..
+from there I got this..
 
 `http://mercury.picoctf.net:7319/aD8SvhyVkb`
 
@@ -70,5 +68,4 @@ Utilize CyberChef >> `Magic` to decode the provided string.
 4. Crib (known plain text) set `pico`
 
 `You will get the flag!!`
-
-
+---
