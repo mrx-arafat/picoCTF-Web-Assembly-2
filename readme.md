@@ -3,7 +3,7 @@
 
 View Source Code carefully we get this [JS file](http://mercury.picoctf.net:7319/Y8splx37qY.js)
 
-from there I got this..
+from there we have this...
 
 `http://mercury.picoctf.net:7319/aD8SvhyVkb`
 
