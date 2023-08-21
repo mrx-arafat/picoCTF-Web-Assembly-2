@@ -16,7 +16,7 @@ from there we have this...
   - [Step 3: Interact with WebAssembly](#step-3-interact-with-webassembly)
   - [Step 4: Derive the Flag](#step-4-derive-the-flag)
 - [Using CyberChef](#using-cyberchef)
-  - [Step 1: Decode the Hexadecimal String](#step-1-decode-the-hexadecimal-string)
+  - [Step 1: Decode the String](#Step 1: Decode the String)
 - [Conclusion](#conclusion)
 
 ## Requirements
